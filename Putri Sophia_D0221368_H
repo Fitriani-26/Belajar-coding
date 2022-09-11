@@ -1,0 +1,31 @@
+public class Main {
+	public static void main(String[] args) {
+		
+		//8 tipe data Java
+		
+		String nama = "putri sophia";
+		System.out.println("nama saya:" + nama);
+		
+		byte umur = 20;
+		System.out.println("umur:" + umur + "tahun");
+		
+		short tinggi = 153;
+		System.out.println("tinggi badan:" + tinggi + "cm");
+		
+		long berat_badan = 49;
+		System.out.println("berat:" + berat_badan + "kg");
+		
+		float jarak_rumah = 30.3f;
+		System.out.println("jarak rumah ke kampus:" + jarak_rumah + "km");
+		
+		double panjang_kaki = 23.5;
+		System.out.println("panjang kaki saya:" + panjang_kaki + "cm");
+		
+		boolean sudah_menikah = false;
+		System.out.println("sudah menikah:" + sudah_menikah);
+		
+		char anak_ke = '1';
+		System.out.println("saya merupakan anak ke:" + anak_ke + "/pertama");
+		
+	}
+}
